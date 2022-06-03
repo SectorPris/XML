@@ -1,1 +1,14 @@
-
+<bug_report>
+ <Environment>Ваша среда</Environment>
+ <ID>BUG_ID</ID>
+ <Summary>Что?Где?Почему?</Summary>
+ <STR>
+ <Step1>Описание шага</Step1>
+ <Step2>Описание шага</Step2>
+ </STR>
+ <Actual_Result>...</Actual_Result>
+ <Expected_Result>...</Expected_Result>
+ <Вложения>...</Attachments>
+</bug_report>
+        
+   
